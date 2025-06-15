@@ -1,0 +1,142 @@
+/* Add Bootstrap CDN link in your index.html or import in your project */
+
+.login-page {
+  background: url('https://images.prestigeonline.com/wp-content/uploads/sites/5/2024/04/10221200/431313100_17874505356049139_5206131842345222780_n-1-1.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+
+.login-container {
+  max-width: 420px;
+  margin: 5rem auto;
+  background-color: rgba(39, 113, 159, 0.75); /* transparent deep blue */
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+  color: #f0f0f0; /* light text */
+}
+
+.login-title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: #181414;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+}
+
+.form-label {
+  font-weight: 500;
+  color: #000000;
+}
+
+.form-control {
+  border-radius: 8px;
+  border: 1px solid #000000;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.85);
+  color: #8a2be2; /* purple text */
+  transition: box-shadow 0.3s ease;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 8px #8a2be2;
+  border-color: #8a2be2;
+  outline: none;
+}
+
+.btn-hotel {
+  width: 100%;
+  padding: 12px;
+  background-color: #8a2be2; /* rich purple */
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.btn-hotel:hover,
+.btn-hotel:focus {
+  background-color: #6a1c9a; /* darker purple */
+  outline: none;
+  box-shadow: 0 0 10px #6a1c9a;
+}
+
+.alert {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(220, 53, 69, 0.85);
+  border-radius: 8px;
+  padding: 0.75rem;
+  font-weight: 600;
+}
+
+.register-link {
+  text-align: center;
+  margin-top: 1.3rem;
+  color: #ffe1fd;
+  font-weight: 500;
+}
+
+.register-link a {
+  color: #120211;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+}
+/* Registration page background image and layout */
+.registration-page {
+  background: url('https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1950&q=80')
+    no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+/* Registration card style */
+.registration-container {
+  max-width: 460px;
+  margin: 4rem auto;
+  background-color: rgba(203, 131, 178, 0.85); /* plum-purple translucent */
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+/* Title for registration */
+.registration-title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* Link section under registration form */
+.registration-link {
+  text-align: center;
+  margin-top: 1.3rem;
+  color: #ffe1fd;
+  font-weight: 500;
+}
+
+.registration-link a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.registration-link a:hover {
+  text-decoration: underline;
+}
