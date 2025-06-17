@@ -57,6 +57,3 @@ Front-end: http://localhost:3000
 
 Back-end (API): http://localhost:8080
 
-![Screenshot (324)](https://github.com/user-attachments/assets/401589f8-62db-4c45-af83-d2020c4484aa)
-
-![Screenshot (324)](https://github.com/user-attachments/assets/b13542c8-ab1e-4b71-b419-3f478c4eae29)
