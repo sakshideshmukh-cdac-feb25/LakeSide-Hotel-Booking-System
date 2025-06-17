@@ -56,5 +56,6 @@ npm start
 Front-end: http://localhost:3000
 
 Back-end (API): http://localhost:8080
+![Screenshot (324)](https://github.com/user-attachments/assets/77167113-5643-4396-aecc-9bf4de8e0946)
 
 
